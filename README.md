@@ -1,7 +1,7 @@
 # Home-Assistant-Dinner-Selector
 A method to choose your weekly evening meals from a list you define.
 
-Firstly, a disclaimer. I am very new to Home Assistant and Python, so can only offer minimal help with this. My HA instnce is on a windows VM.
+Firstly, a disclaimer. I am very new to Home Assistant and Python, so can only offer minimal help with this. My HA instance is on a windows VM.
 
 The evening meal selector was borne from being fed up of the weekly arguments of who has to decide on what to have for evening meals for the coming week.
 
