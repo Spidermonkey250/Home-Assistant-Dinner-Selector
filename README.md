@@ -5,7 +5,7 @@ Firstly, a disclaimer. I am very new to Home Assistant and Python, so can only o
 
 The evening meal selector was borne from being fed up of the weekly arguments of who has to decide on what to have for evening meals for the coming week.
 
-Required steps:
+## Required steps:
 
 1.  You must have Appdaemon running on your HA instance (Install through HA. Supervisor -> Add-Ons. ensure you follow the install instructions exactly).
 2.  Ensure you put the .py files in the Appdaemon apps folder. The location of the .csv files is up to you, but ensure you change the location in the .py files.
