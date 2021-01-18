@@ -18,5 +18,5 @@ The evening meal selector was borne from being fed up of the weekly arguments of
 5.  DinnerUpdater uses Dinner_Menu to create sensors in HA, that can then be used in a card on lovelace.
 
 
-https://github.com/Spidermonkey250/Home-Assistant-Dinner-Selector/blob/main/lovelace_card_config.jpg
+https://github.com/Spidermonkey250/Home-Assistant-Dinner-Selector/blob/main/lovelace_card_config.jpg?raw=true
 ## Image is for reference only
