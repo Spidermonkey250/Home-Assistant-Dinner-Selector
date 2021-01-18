@@ -17,6 +17,3 @@ The evening meal selector was borne from being fed up of the weekly arguments of
 4.  As I do the shopping on a Saturday afternoon, the dinner_selector.py file will update in AppDaemon at 1010 on Saturday morning and writes the menu to Dinner_Menu.csv.
 5.  DinnerUpdater uses Dinner_Menu to create sensors in HA, that can then be used in a card on lovelace.
 
-
-https://github.com/Spidermonkey250/Home-Assistant-Dinner-Selector/blob/main/lovelace_card_config.jpg?raw=true
-## Image is for reference only
